@@ -22,6 +22,10 @@ You will be rated after exactly 50 turns on the
 - less the number of units above 3 for each class (otherwise just spam bombers)
 - plus some penalties for losing say an Infernal Swordsland or Halfling Ranger (needed in next scene)
 
-##
+## Beta Testing
 
-This is beta-testing so take it as _as is, what is_. Discussions on discord 
+This is early testing so take it as _as is, what is_. Discussions on discord. Some FAQ
+
+- _why are there so few workers?_ As the armistice to launch a joint cruisade, the chaos dwarfs agreed to curtail their ... involuntary labor niservitude (cough) and keeping up the constant offerings to Harush, it meant a new deal with TheMoot to invest in foreign "guest workers" fleeing from the Loren invasion
+- _so why are the peaceful elves seizing the knight's lands?_ Actually we think because of the successful defence of TheMoot (whom the chaos dwarfs pledged to protect) they looked for weaker prey. We chaotic dwarfs are in search of truth so the spurious accusations of spying, assassination and kidnapping of spellsingers is utterly without evidence (and we made damn sure of it);
+- _what are you doing so far away from your capital?_ Crusade. Gross species insult. Book of Grudges. We had a peaceful trade then those treacherous ragheads stabbed us in the back by declaring jihad. Just we prefer rational unbiased experientation (in vivos experimentation works best) and not pandering to pagan superstitions is no reason to refuse to sit down to discuss peace (once we prepare a nicely sharpened stake).
