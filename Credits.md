@@ -3,7 +3,7 @@
 1. [@yairm210](https://github.com/yairm210/Unciv) for pioneering a dataflow mechanism onto an expandable state-space
 2. [@amfauzn](https://github.com/amfauzn/Fantasia) for the weird and wonderful Fantasia tileset
 3. [@Mouiller](https://github.com/mouillerart/UncivWarhammer) for laboriouslly converthing this ruleset to the WarHammer realm
-4. [@hakedpassword](https://github.com/hackedpassword/NextgenMaps-Labs), [Caballero](https://github.com/Caballero-Arepa/Community-Maps), [@bamboolord](https://github.com/RealBamboolord/LOTR-reworked) for base maps to experiment with chaos invasion
+4. [@hakedpassword](https://github.com/hackedpassword/NextgenMaps-Labs), [@Caballero](https://github.com/Caballero-Arepa/Community-Maps), [@bamboolord](https://github.com/RealBamboolord/LOTR-reworked) for base maps to experiment with chaos invasion
 5. [Gitzman Gallery](http://www.gitzmansgallery.com/warhammer-maps.html) for some dead-tree maps
 6. Parents for their sacrifice so I have the education to grok code
 
@@ -17,10 +17,20 @@ I'd note that the Unciv influence tilemap is _purely symbolic_ and does not repr
 > 
 > -- Borgio
 
-[! Tactical (./Snapshot/Mousille.png)
+![Tactical](./Snapshots/Mousille.png)
 
 ## Assault on Araby
 
 > My most esteemd battle companion
 > 
-> I am greatly saddened by the loss of many colleagues from Grail Knighthood, but relieved at your safe delivery from a most fearsome charge. Though I cannot understand how so many golems could spring out of the ground, it is the sheer stupidity of the lackluster lords of the realm who cannot fanthom the age of sword and sorcery has passed? Despite the vows of silence binding up to our `employees`, surely reports should have filtered back of their mastery of fire and water to cast great engines of destruction. What has been so surprising is the air-bourne version is any less unanticipated. When we next meet over our favorite wines, I shall regale you of my daring desert dash. I can't ssy more but when those inferenal swordsman let loose their steeds to facilitate this deep raid, I could never imagine we'd sight the walls of the capital without benig chained up as prisoner after running the gauntlet of fireships and constant patrols of flyng carpets.. Great deed make Great men but even I fear the tales that will emerge.
+> I am greatly saddened by the loss of many colleagues from Grail Knighthood, many of whom may have been squires together, but also relieved at your safe delivery from a most fearsome prospect. Though I cannot understand how so many golems could spring out of the ground, it is just the abject stupidity of my homeland lackluster lords of the realm who cannot fanthom that the age of sword and sorcery has passed? Despite the dark vows of silence binding us to our `employees`, surely reports should have filtered back of their mastery of fire and water to bind into great engines of destruction. What has been so surprising is the air-bourne version is any less unanticipated. When we next meet over our favorite wines, I shall regale you of my daring desert dash. I can't ssy more but when those inferenal swordsman let loose their steeds to facilitate this deep raid, I could never imagine we'd sight the walls of the capital without benig chained up as beatened prisoner after running the gauntlet of fireships and constant patrols of flyng carpets. Great deeds make Great men but even now I fear the tales that will emerge.
+>
+> - Louen 
+
+![Map of Araby](http://www.gitzmansgallery.com/maps/Map-Araby-1.jpg)
+
+## Calamnity of Caravoc
+
+> Sire, our complacency that our two foes will exhaust each other is is vain. Signals have reported that Caravoc has fallen overnight due to those hellish contraptions of those cursed daemon spwan. As you are well aware the constant attrition has decimated our Great Eagle scouts and royal Griffin Guard. Hence the mountains south of Caravoc was presumed to be impassable and there was no sentnels watching that desolute land. Withhind sight, the total collapse of Alhaka was not surprising. Our loyal spies reportred a mass depopulation to Dhab camps that was expected to tie up the occupation forces for years. What escaped our attention was the quiet embarkment of their magma cannons from the well named Tree of Beards military district via their "iron road" and using ships granted as part of the surrender terms sneak their way along the coast to our western reaches. A suspect betrayal at the highest level, perhaps reaching back to the Phoenix throne for such a castastophic failure. I hereby offer my resignation to atone for this grievous error.
+>
+> - Ceroc
