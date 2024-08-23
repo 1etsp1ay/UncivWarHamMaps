@@ -13,14 +13,14 @@ I'd note that the Unciv influence tilemap is _purely symbolic_ and does not repr
 _No indeed! We are not strong,_
 _But we know Peoples that are._
 _Yes, and we'll guide them along_
-_To thrash and cover you in tar!_
+_To thrash you both sun and stars!_
 
-_We shall be slaves just the same?_
+_We shall be serfs just the same?_
 _Yes, we have always been slaves,_
 _But you – you will die of the shame,_
 _And then we shall dance on your graves!_
 
-- Rudyard Kipling (repurposed for national song of the Moot-in-Exile)
+- apologies to Rudyard Kipling (repurposed for national song of the Moot-in-Exile)
 
 # Borgio Book of Battles (my own ineptitude)
 
@@ -49,3 +49,11 @@ _And then we shall dance on your graves!_
 > Sire, our complacency that our two foes will exhaust each other is is vain. Signals have reported that Caravoc has fallen overnight due to those hellish contraptions of those cursed daemon spwan. As you are well aware the constant attrition has decimated our Great Eagle scouts and royal Griffin Guard. Hence the mountains south of Caravoc was presumed to be impassable and there was no sentnels watching that desolute land. Withhind sight, the total collapse of Alhaka was not surprising. Our loyal spies reportred a mass depopulation to Dhab camps that was expected to tie up the occupation forces for years. What escaped our attention was the quiet embarkment of their magma cannons from the well named Tree of Beards military district via their "iron road" and using ships granted as part of the surrender terms sneak their way along the coast to our western reaches. A suspect betrayal at the highest level, perhaps reaching back to the Phoenix throne for such a castastophic failure. I hereby offer my resignation to atone for this grievous error.
 >
 > - Ceroc
+
+## Pacification of the Border Princes
+
+> High General, we will conclude military operations and turn security back to the local militia and self-protection societies within the year. In conformance with the containment policy, I have halted all advances, after out ... cousins shock and awe dispay at Caravoc. They have presented me a trophy of the so called Araby tanks which are a pile of misbegotten junk metal. If they didn't have plentiful distilates they would not afford the logistical chain as compared with just water for the devilish contraptions our cousinns haul. However I dod have a concern of stationing some of their ready reaction forces in an abandoned Hold in that it is within striking distance of Karaz-a-Karak with only one refuelling stop. Fortuately momst our critical infrastructure is underground where we must start hoarding strategic supplies in anticipation of the armistice end.
+>
+> However I must protest most strongly at Agent C. There was no call to starve into extinction that town which we promptly blamed on rouge war criminals who deserted towards the empire. However that is causing us public opporbrium because we cannot restrain the patriots of the Moot-in-exile. Their liberation raids across the border crying "Liberty, Equality, Fraternity" to rescue unwashed peasants is of no concern but the magic traces left on pillaging point to these imaginary rogue elements which they blame on us losing control of the blasted warp-weapons. Araby policy was only dispersement of their major cities back into the backwaters but without permanent ill-will. I categorically refuse to have any further dealings with that genocidal madman and in fact, will write through diplomatic back-channels a potential peace negotiations including disassociation with his war crimes now that the Grudge has been settled.
+>
+> Grim Ironfist
