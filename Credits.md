@@ -4,7 +4,7 @@
 2. [@amfauzn](https://github.com/amfauzn/Fantasia) for the weird and wonderful Fantasia tileset
 3. [@Mouiller](https://github.com/mouillerart/UncivWarhammer) for laboriouslly converthing this ruleset to the WarHammer realm
 4. [@hakedpassword](https://github.com/hackedpassword/NextgenMaps-Labs), [@Caballero](https://github.com/Caballero-Arepa/Community-Maps), [@bamboolord](https://github.com/RealBamboolord/LOTR-reworked) for base maps to experiment with chaos invasion
-5. [Gitzman Gallery](http://www.gitzmansgallery.com/warhammer-maps.html) for some dead-tree maps, [Kirill Yeskov](https://en.m.wikipedia.org/wiki/The_Last_Ringbearer) for the rationalist lens of fantasy, 
+5. [Gitzman Gallery](http://www.gitzmansgallery.com/warhammer-maps.html) for some dead-tree maps, [Mammoth Island](https://mammothisland.itch.io/elefonts) for hextile fonts, [Kirill Yeskov](https://en.m.wikipedia.org/wiki/The_Last_Ringbearer) for the rationalist lens of fantasy, 
 6. Parents for their sacrifice so I have the education to grok code
 
 I'd note that the Unciv influence tilemap is _purely symbolic_ and does not represent the actual territory, merely their spheres of influence as it includes just the major participants mentioned in this minor chapter of the [Dammaz Kron](https://warhammerfantasy.fandom.com/wiki/Great_Book_of_Grudges). Hence there are derivations of the geographical names and time-shifting of heros (explained by the portals grabbing Heros from parallel universes hence no memory of prior association).
