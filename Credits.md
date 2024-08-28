@@ -66,4 +66,4 @@ _And then we shall dance on your graves!_
 >
 > However I must protest most strongly at Agent C. There was no call to starve into extinction that town which we promptly blamed on rouge war criminals who deserted towards the empire. However that is causing us public opporbrium because we cannot restrain the patriots of the Moot-in-exile. Their liberation raids across the border crying "Liberty, Equality, Fraternity" to rescue unwashed peasants is of no concern but the magic traces left on pillaging point to these imaginary rogue elements which they blame on us losing control of the blasted warp-weapons. Araby policy was only dispersement of their major cities back into the backwaters but without permanent ill-will. I categorically refuse to have any further dealings with that genocidal madman and in fact, will write through diplomatic back-channels a potential peace negotiations including disassociation with his war crimes now that the Grudge has been settled.
 >
-> Grim Ironfist
+> - Ungrim Ironfist
