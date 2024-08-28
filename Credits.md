@@ -10,15 +10,25 @@
 I'd note that the Unciv influence tilemap is _purely symbolic_ and does not represent the actual territory, merely their spheres of influence as it includes just the major participants mentioned in this minor chapter of the [Dammaz Kron](https://warhammerfantasy.fandom.com/wiki/Great_Book_of_Grudges). Hence there are derivations of the geographical names and time-shifting of heros (explained by the portals grabbing Heros from parallel universes hence no memory of prior association).
 
 **Pie-throwing Song**
+
 _No indeed! We are not strong,_
+
 _But we know Peoples that are._
+
 _Yes, and we'll guide them along_
+
 _To thrash you both sun and stars!_
 
+>
+
 _We shall be serfs just the same?_
+
 _Yes, we have always been slaves,_
+
 _But you – you will die of the shame,_
+
 _And then we shall dance on your graves!_
+
 
 - apologies to Rudyard Kipling (repurposed for national song of the Moot-in-Exile)
 
